@@ -33,3 +33,9 @@ http://odoo-dev.nexiles.local/web/database/manager#action=database_manager
 Odoo Web Interface:
 
 http://odoo-dev.nexiles.local/web
+
+### Resources
+
+Odoo Docs:
+
+https://www.odoo.com/documentation/8.0/
