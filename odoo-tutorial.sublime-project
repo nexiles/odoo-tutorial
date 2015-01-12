@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "./addons",
+			"name": "addons"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "./provisioning",
+			"name": "ansible / vagrant setup"
+		}
+	]
+}
