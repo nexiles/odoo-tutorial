@@ -54,3 +54,4 @@ docs/_build/
 target/
 vendor/PyChart-1.39
 odoo-tutorial.sublime-workspace
+addons/.ipython
