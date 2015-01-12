@@ -8,9 +8,9 @@
 
     # templates, pages, and snippets
     'data': [
-        'views/pages.xml',
-        'views/options.xml',
-        'views/snippets.xml',
+        # 'views/pages.xml',
+        # 'views/options.xml',
+        # 'views/snippets.xml',
     ],
 
     # Your information
