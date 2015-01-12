@@ -39,3 +39,8 @@ http://odoo-dev.nexiles.local/web
 Odoo Docs:
 
 https://www.odoo.com/documentation/8.0/
+
+Older, still relevant:
+
+http://de.slideshare.net/openobject/how-to-customize-views-menues-of-open-erp-online-in-a-sustainable-way-frederic-gilson
+http://de.slideshare.net/arcanetdeveloper/openerp-book-versin-61?next_slideshow=1
