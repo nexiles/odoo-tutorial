@@ -12,6 +12,11 @@
 		},
 		{
 			"follow_symlinks": true,
+			"path": "./../odoo",
+			"name": "ODOO 8.0 core"
+		},
+		{
+			"follow_symlinks": true,
 			"path": "./provisioning",
 			"name": "ansible / vagrant setup"
 		}
